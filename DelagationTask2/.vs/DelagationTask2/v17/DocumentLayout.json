@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\DelagationTask2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Delegate\\DelagationTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|c:\\users\\pc\\source\\repos\\delagationtask2\\delagationtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\delegate\\delagationtask2\\delagationtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|solutionrelative:delagationtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|c:\\users\\pc\\source\\repos\\delagationtask2\\delagationtask2\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\delegate\\delagationtask2\\delagationtask2\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EE17A12-4B0C-4F8B-B30F-1DDA0EA383A3}|DelagationTask2\\DelagationTask2.csproj|solutionrelative:delagationtask2\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Exam.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DelagationTask2\\DelagationTask2\\Models\\Exam.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Delegate\\DelagationTask2\\DelagationTask2\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "DelagationTask2\\Models\\Exam.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\DelagationTask2\\DelagationTask2\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Delegate\\DelagationTask2\\DelagationTask2\\Models\\Exam.cs",
               "RelativeToolTip": "DelagationTask2\\Models\\Exam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:01:01.164Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\DelagationTask2\\DelagationTask2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Delegate\\DelagationTask2\\DelagationTask2\\Program.cs",
               "RelativeDocumentMoniker": "DelagationTask2\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\DelagationTask2\\DelagationTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Delegate\\DelagationTask2\\DelagationTask2\\Program.cs",
               "RelativeToolTip": "DelagationTask2\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T14:59:52.425Z",
               "EditorCaption": ""

@@ -13,5 +13,13 @@ namespace DelagationTask2.Models
         public DateTime StartDate;
         public DateTime EndDate;
 
+        public Exam(string subject, int duration, DateTime startDate)
+        {
+            Subject = subject;
+            ExamDuration = duration;
+             
+            EndDate = startDate.AddHours(duration);
+        }
+
     }
 }

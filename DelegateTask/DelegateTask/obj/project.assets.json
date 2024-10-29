@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\DelegateTask\\DelegateTask\\DelegateTask.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Masaüstü\\Delegate\\DelegateTask\\DelegateTask\\DelegateTask.csproj",
       "projectName": "DelegateTask",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\DelegateTask\\DelegateTask\\DelegateTask.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\Delegate\\DelegateTask\\DelegateTask\\DelegateTask.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\DelegateTask\\DelegateTask\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\Delegate\\DelegateTask\\DelegateTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

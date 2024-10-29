@@ -7,85 +7,76 @@ namespace DelegateTask
     {
         static void Main(string[] args)
         {
-            List<Person> people = new List<Person>();
-            Person person1 = new Person
+            List<Person> people = new List<Person>
             {
-                Name = "Ayxan",
+                new Person
+                {
+                     Name = "Ayxan",
                 Surname = "Memmedli",
-                Age = 19,
-            };
-            Person person2 = new Person
-            {
+                Age = 19
+                },
+                new Person
+                {
                 Name = "Ayxan",
                 Surname = "Memmedov",
-                Age = 19,
-            };
-            Person person3 = new Person
-            {
-                Name = "vüsale",
+                Age = 19
+                },
+                new Person
+                {
+                    Name = "Vüsale",
                 Surname = "Memmedova",
-                Age = 18,
-            };
-            Person person4 = new Person
-            {
-                Name = "serxan",
+                Age = 18
+                },
+                new Person{
+                    Name = "Serxan",
                 Surname = "Memmedli",
                 Age = 32,
-            };
-            Person person5 = new Person
-            {
-                Name = "nicat",
+                },
+                new Person
+                {
+                      Name = "Nicat",
                 Surname = "Memmedli",
                 Age = 17,
-            };
-            Person person6 = new Person
-            {
-                Name = "yalçın",
+                },
+                new Person
+                {
+                     Name = "Yalçın",
                 Surname = "Memmedli",
                 Age = 18,
-            };
-            Person person7 = new Person
-            {
-                Name = "ağahüseyn",
+                },
+                new Person
+                {
+                     Name = "Ağahüseyn",
                 Surname = "Salahlı",
                 Age = 21,
-            };
-            Person person8 = new Person
-            {
-                Name = "elnur",
-                Surname = "kerimov",
+                },
+                new Person
+                {
+                       Name = "Elnur",
+                Surname = "Kerimov",
                 Age = 24,
-            };
+                }
 
-            people.Add(person1);
-            people.Add(person2);
-            people.Add(person3);
-            people.Add(person4);
-            people.Add(person5);
-            people.Add(person6);
-            people.Add(person7);
-            people.Add(person8);
-          var foundedName = people.FindAll(p => p.Name == "Ayxan");
-            var foundedAge = people.FindAll(p => p.Age > 20);
-            var foundedSurname = people.FindAll(p=>p.Surname.EndsWith("ov") || p.Surname.EndsWith("ova"));
+            };
+           
+
+         
+           List<Person> foundedName = people.FindAll(p => p.Name == "Ayxan");
+            List<Person> foundedAge = people.FindAll(p => p.Age > 20);
+            List<Person> foundedSurname = people.FindAll(p=>p.Surname.EndsWith("ov") || p.Surname.EndsWith("ova"));
 
             Console.WriteLine("Adı Ayxan olanlar:\n");
-            foreach (var person in foundedName)
-            {
-                Console.WriteLine($"{person.Name} {person.Surname}");
-            }
+
+          foundedName.ForEach(p => Console.WriteLine(p.Name + " " + p.Surname));
             Console.WriteLine("\n");
             Console.WriteLine("yaşı 20+ olanlar:\n");
-            foreach (var person in foundedAge)
-            {
-                Console.WriteLine($"{person.Name} {person.Surname}");
-            }
+
+            foundedAge.ForEach(p => Console.WriteLine(p.Name + " " + p.Surname));
+
             Console.WriteLine("\n");
             Console.WriteLine("Soyadı ov-ova ile bitenler:\n");
-            foreach (var person in foundedSurname)
-            {
-                Console.WriteLine($"{person.Name} {person.Surname}");
-            }
+
+            foundedSurname.ForEach(p => Console.WriteLine(p.Name + " " + p.Surname));
 
 
 

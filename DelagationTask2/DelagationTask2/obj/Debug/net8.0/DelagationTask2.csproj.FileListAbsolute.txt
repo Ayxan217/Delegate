@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\bin\Debug\net8.0\DelagationTask2.exe
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\bin\Debug\net8.0\DelagationTask2.deps.json
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\bin\Debug\net8.0\DelagationTask2.runtimeconfig.json
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\bin\Debug\net8.0\DelagationTask2.dll
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\bin\Debug\net8.0\DelagationTask2.pdb
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.AssemblyInfo.cs
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.dll
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\refint\DelagationTask2.dll
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.pdb
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\DelagationTask2.genruntimeconfig.cache
+C:\Users\pc\source\repos\DelagationTask2\DelagationTask2\obj\Debug\net8.0\ref\DelagationTask2.dll
